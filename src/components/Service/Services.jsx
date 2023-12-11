@@ -19,25 +19,22 @@ const Services = () => {
         <Slide direction="left">
           <Card
             Icon={MdDesignServices}
-            title={"ui/ux designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Web Developer"}
+            disc={`A creative and detail-oriented web developer with a passion for crafting exceptional online experiences. Proficient in front-end technologies, adept at turning design concepts into responsive and user-friendly websites. Skilled in HTML, CSS, JavaScript, and familiar with various frameworks like React. Dedicated to delivering high-quality  and digital solutions. `}
           />
         </Slide>
         <Slide direction="up">
           <Card
             Icon={FiCodesandbox}
-            title={"graphic designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Data Analyst"}
+            disc={`A dedicated data analyst with a keen analytical mindset and a strong aptitude for translating complex data into actionable insights. Proficient in data collection, cleaning, and analysis, utilizing tools like GoogleSheets,, and SQL. Experienced in creating visualizations and reports to effectively communicate findings to both technical and non-technical stakeholders.`}
           />
         </Slide>
         <Slide direction="right">
           <Card
             Icon={CgWebsite}
-            title={"web designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Fully Responsive"}
+            disc={`I specialize in crafting fully responsive websites that seamlessly adapt to different devices and screen sizes. Whether your audience is browsing on a desktop, tablet, or smartphone, I ensure a consistent and user-friendly experience.  My commitment to responsive design guarantees that your website will look stunning and function flawlessly across various platforms.`}
           />
         </Slide>
       </Cards>

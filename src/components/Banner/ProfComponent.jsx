@@ -4,6 +4,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 import { GiEarthAmerica } from "react-icons/gi";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
+import Img from "../../components/assets/photo.jpeg";
 
 const ProfComponent = () => {
   return (
@@ -13,12 +14,11 @@ const ProfComponent = () => {
           <h4>
             Hello <span className="green">I'am</span>
           </h4>
-          <h1 className="green">Milad Amiri</h1>
-          <h3>UX/UI Designer and graphic designer</h3>
+          <h1 className="green">Shahzia Bibi</h1>
+          <h3>Web Developer and Data Analyst</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-            iusto. Adipisci in qui officia provident tenetur sequi, deserunt
-            corporis quos?
+            Detail-oriented web developer proficient in front-end technologies, translating design into seamless, user-centric websites with expertise in HTML, CSS, JavaScript, and modern frameworks.
+            Insight-driven data analyst skilled in collecting, cleaning, and interpreting complex data sets using GoogleSheets,Tableau R,and SQL. Excels at producing clear visualizations to drive data-driven business decisions.
           </p>
           <button>Let's talk</button>
           <Social>
@@ -46,7 +46,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="https://res.cloudinary.com/ghazni/image/upload/v1659082282/Yt-portfolio/Untitled-1_drcspz.png"
+            src={Img}
             alt="profile"
           />
         </Profile>
