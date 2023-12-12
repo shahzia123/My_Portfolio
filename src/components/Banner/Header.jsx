@@ -16,7 +16,6 @@ const Header = () => {
                 <span><a href="#project">Projects</a></span>
 
 
-                {/* t=es  */}
                 <span><a href="#client">Contacts</a></span>
                 
             </Nav>
