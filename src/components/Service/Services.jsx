@@ -23,6 +23,9 @@ const Services = () => {
             disc={`A creative and detail-oriented web developer with a passion for crafting exceptional online experiences. Proficient in front-end technologies, adept at turning design concepts into responsive and user-friendly websites. Skilled in HTML, CSS, JavaScript, and familiar with various frameworks like React. Dedicated to delivering high-quality  and digital solutions. `}
           />
         </Slide>
+
+
+        {/* test  */}
         <Slide direction="up">
           <Card
             Icon={FiCodesandbox}
